@@ -4,9 +4,10 @@
 # Don't remove this entry!
 template-info:
   name: "!{template_name}"
-  version: 1.7.0
+  version: 1.7.3
   links:
-    source: https://github.com/blambeau/noe
+    documentation: https://github.com/blambeau/rubygem.noe
+    source: git://github.com/blambeau/rubygem.noe.git
 
 # Update to match your own configuration.
 variables:

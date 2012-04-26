@@ -21,7 +21,7 @@ template-info:
 
   # Don't remove the name and version entries, which are ALWAYS required
   name: "!{template_name}"
-  version: 1.7.0
+  version: 1.7.3
 
   # The following entries are information about the template itself and can safely
   # be removed on your own project.
@@ -34,10 +34,11 @@ template-info:
     also helps you understanding the ruby ecosystem by providing a fully documented
     project, rake tasks, and so on.
   authors:
-    - {name: Bernard Lambeau, email: blambeau@gmail.com}
+    - {name: Bernard Lambeau, email: blambeau at gmail.com}
+    - {name: Benoit Daloze,   email: eregontp at gmail.com}
   links:
-    source: https://github.com/blambeau/noe/tree/master/templates/ruby
-    documentation: https://github.com/blambeau/noe/blob/master/templates/ruby/README.md
+    source: git://github.com/blambeau/rubygem.noe.git
+    documentation: https://github.com/blambeau/rubygem.noe
 
   #
   # Below starts the template manifest.
