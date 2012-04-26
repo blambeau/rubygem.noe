@@ -21,7 +21,7 @@ template-info:
 
   # Don't remove the name and version entries, which are ALWAYS required
   name: "!{template_name}"
-  version: 1.7.3
+  version: 1.7.4
 
   # The following entries are information about the template itself and can safely
   # be removed on your own project.
