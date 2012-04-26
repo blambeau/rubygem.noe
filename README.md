@@ -1,4 +1,4 @@
-# Noe template for ruby projects
+# Noe template for ruby gems
 
 This project provides a [Noe](https://github.com/blambeau/noe) template for creating a
 ruby gem library. Generated project comes with rake tasks to support the lifecycle of
@@ -10,17 +10,18 @@ rake tasks, and so on.
 
 * You'll need Noe to use this template, see: https://github.com/blambeau/noe
 * You'll also need bundler, see http://gembundler.com/
-* Copy the whole folder in your noe skeleton folder (defaults to ~/.noe)
+* Copy the whole folder in your ~/.noe skeleton folder
 
 In other words
 
     [sudo] gem install noe bundler
-    cp {this whole folder} ~/.noe
+    cd ~/.noe
+    git clone git://github.com/blambeau/rubygem.noe.git
 
 ### Creating a ruby project
 
     # Prepare generation
-    noe prepare --template=ruby foo
+    noe prepare --template=rubygem.noe foo
     cd foo
 
     # Edit specific information about your project
