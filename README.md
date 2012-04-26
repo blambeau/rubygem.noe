@@ -52,11 +52,3 @@ _tasks_ folder for specific configuration additional information.
     rake package          # Build all the packages
     rake repackage        # Force a rebuild of the package files
     rake clobber_package  # Remove package products
-
-## External dependencies
-
-* This template requires [bundler, >= 1.0](http://gembundler.com/)
-* The _spec_ tasks requires [rspec, >= v2.4.0](http://relishapp.com/rspec)
-* The _yard_ tasks requires [yard,  >= v0.6.4](http://yardoc.org/) which itself relies on
-  [bluecloth, >= 2.0.9](http://deveiate.org/projects/BlueCloth)
-* All _package_-related tasks require [rubygems, >= 1.3.8](http://docs.rubygems.org/)
