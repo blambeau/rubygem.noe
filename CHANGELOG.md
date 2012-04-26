@@ -1,3 +1,9 @@
+# 1.7.4 / FIX ME
+
+* Changed the official name to rubygem.noe.
+* Updated .noespec files with accurate source and documentation github links.
+* Bumped dependencies: rspec ~> 2.9, bundler ~> 1.1, bluecloth ~> 2.2
+
 # 1.7.3 / 2012-02-25
 
 * Add a default travis-ci build matrix for rubies 1.9
