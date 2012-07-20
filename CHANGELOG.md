@@ -1,4 +1,10 @@
-# 1.7.4 / FIX ME
+# 2.0.0 / 2012-07-20
+
+* Removed debug_mail and unit_test rake tasks.
+* Configure RSpec to include a SpecHelpers module in spec_helper.rb
+* Removed yard, wlang, bundler dependencies in default .noespec
+
+# 1.7.4 / 2012-04-26
 
 * Changed the official name to rubygem.noe.
 * Updated .noespec files with accurate source and documentation github links.
