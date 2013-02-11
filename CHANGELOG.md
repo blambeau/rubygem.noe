@@ -1,3 +1,7 @@
+# 2.0.1 / FIX ME
+
+* Updates travis build matrix.
+
 # 2.0.0 / 2012-07-20
 
 * Removed debug_mail and unit_test rake tasks.
