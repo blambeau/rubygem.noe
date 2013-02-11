@@ -1,4 +1,4 @@
-# 2.0.1 / FIX ME
+# 2.0.1 / 2013-02-11
 
 * Updates travis build matrix.
 
